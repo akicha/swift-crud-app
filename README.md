@@ -8,7 +8,7 @@ Before proceeding ensure that Docker installed on your machine.
 
 ## Running application
 
-This application was containerized using Docker. To run this application you need to clone this repository using the next command: 
+This application was containerized using Docker. To run this application you need to clone this repository using the following command: 
 
 `git clone https://github.com/akicha/swift-crud-app.git`
 
